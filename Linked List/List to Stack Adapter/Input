@@ -1,0 +1,15 @@
+push 10
+push 20
+pop
+top
+size
+push 30
+push 40
+push 50
+pop
+top
+size
+pop
+top
+size
+quit
